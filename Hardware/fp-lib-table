@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PocketVoltex)(type KiCad)(uri ${KIPRJMOD}/PocketVoltex.pretty)(options "")(descr ""))
+  (lib (name Resistors_SMD)(type KiCad)(uri ${KIPRJMOD}/Resistors_SMD.pretty)(options "")(descr ""))
+)
